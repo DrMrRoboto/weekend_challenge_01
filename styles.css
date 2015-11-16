@@ -1,0 +1,22 @@
+/*css styling for the <form> and text input fields*/
+form {
+	font-size: 25px;
+}
+#firName {
+	margin-left: 78px;
+}
+#lasName {
+	margin-left: 81px;
+}
+#jobTitle {
+	margin-left: 144px;
+}
+#review {
+	margin-left: 1px;
+}
+#annSal {
+	margin-left: 126px;
+}
+#main {
+	
+}
